@@ -8,7 +8,7 @@
 - 🌱 I’m always learning more about accessibility and web technologies in general as the changes and advancement in the field does not sleep and I ❤ WEB & I ❤ A11y.
 - 👯 I’m trying to be a better team player and especially mentor and teach people around me that wants it.
 - 🎓 I'm Google Certified Mobile Web Specialist
-- 🎓 I’m in the progress of Web Accessibility Specialist certification by the International Association of Accessibility Professionals (IAAP)
+- 🎓 I’m Web Accessibility Specialist certified by the International Association of Accessibility Professionals (IAAP)
 - 📫 You can reach me on [Twitter](https://twitter.com/CerovacBogdan) or [LinkedIn](https://www.linkedin.com/in/bogdancerovac/)
 - ⚡ Fun facts:
     - Born and raised in beautiful Slovenia 🇸🇮, living and working in beautiful Norway 🇳🇴
