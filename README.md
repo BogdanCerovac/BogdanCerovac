@@ -2,6 +2,8 @@
 
 ## my name is Bogdan Cerovac.
 
+- 📫 You can reach me on [Twitter](https://twitter.com/CerovacBogdan) or [LinkedIn](https://www.linkedin.com/in/bogdancerovac/)
+
 ### Some facts about me:
 
 - 🔭 I’m currently working as front-end developer and web accessibility specialist for https://www.itumX.no but this is my private repo.
@@ -10,7 +12,6 @@
 - 🎓 I'm Mobile Web Specialist certified by Google - finnaly a hands-on exam with real problems that had to be solved by coding in 4 hours frame.
 - 🎓 I’m Web Accessibility Specialist certified by the International Association of Accessibility Professionals (IAAP).
 - 🤖 I stil like to play - I used to play a lot of Civilization, but now I love to play with Machine Learning, Natural Language Processing and with some Arduinos, Particles, NodeMCU's and ATTiny85's.
-- 📫 You can reach me on [Twitter](https://twitter.com/CerovacBogdan) or [LinkedIn](https://www.linkedin.com/in/bogdancerovac/)
 - ⚡ Fun personal facts:
     - Born and raised in beautiful Slovenia 🇸🇮, living and working in beautiful Norway 🇳🇴
     - Wife, 3 dogs 🐶🐶🐶 and a horse 🐴
