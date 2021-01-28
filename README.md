@@ -14,7 +14,7 @@
 - 🤖 I stil like to play - I used to play a lot of Sid Meier's Civilization (TM), but now I love to play with Machine Learning, Natural Language Processing, Augmented and Virtual reality and sometimes even with some Arduinos, Particles, NodeMCU's and ATTiny85's.
 - ⚡ Fun personal facts:
     - Born and raised in beautiful Slovenia 🇸🇮, living and working in beautiful Norway 🇳🇴
-    - Wife, 3 dogs 🐶🐶🐶 and a horse 🐴
+    - Wife, a daughter, 3 dogs 🐶🐶🐶 and a horse 🐴
     - Only child but huge family, 14 cousins
     - I try to experience world as much as I can, my personal offline favorites:
         + 🇳🇴🐺 Svalbard with dog sledge,
