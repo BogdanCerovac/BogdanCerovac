@@ -8,12 +8,13 @@
 
 ### Some facts about me:
 
-- I’m currently working as front-end developer and web accessibility specialist for https://www.itumX.no but this is my private repo.
+- I’m currently working as front-end developer and web accessibility lead for [ItumX AS](https://www.itumX.no) but this is my private repo.
+- I'm also a recent sole enterpreneur / independant consultant behind [IDEA lab (Inclusion Diversity Equity and Accessibility)](https://idea-lab.no/?s=github-profile).
 - I’m trying to be a better team player, student, teacher, lecturer and mentor teaching people around me about accessibility, front-end, SEO and all that has to do with the web.
 - I'm trying to learn more about disabilities and accessibility, both very wide and deep subjects at the same time - with a goal to make digital products that work for as much people as possible.
 - I’m always learning more about web technologies in general as the changes and advancement in the field does not sleep and I ❤ WEB & I would ❤ A11y will be more embraced, respected and integrated in the future.
 - I also like to think and [blog on accessibility, from theoretical to practical aspects of it](https://cerovac.com/a11y/).
-- I’m Web Accessibility Specialist certified by the International Association of Accessibility Professionals (IAAP).
+- I’m [Web Accessibility Specialist](https://www.credly.com/badges/a95ae4c2-04c3-4c43-9ca2-cfa3e9c676f1/) certified by the [International Association of Accessibility Professionals (IAAP)](https://www.accessibilityassociation.org/s/wascertificants).
 - I was a Mobile Web Specialist certified by Google but they discontinued the certification (it was a true hands-on coding exam with real world problems that had to be solved by coding in 4 hours frame, so not your typical A/B/C/D multiple choices lottery).
 - I stil like to play - I used to play a lot of Sid Meier's Civilization (TM), but now I love to play with Machine Learning, Natural Language Processing, Augmented and Virtual reality and sometimes even with some Arduinos, Particles, NodeMCU's and ATTiny85's.
 - Fun personal facts:
