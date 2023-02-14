@@ -15,7 +15,7 @@
 - I’m always learning more about web technologies in general as the changes and advancement in the field does not sleep and I ❤ WEB & I would ❤ A11y will be more embraced, respected and integrated in the future.
 - I also like to think and [blog on accessibility, from theoretical to practical aspects of it](https://cerovac.com/a11y/).
 - I’m [Web Accessibility Specialist](https://www.credly.com/badges/a95ae4c2-04c3-4c43-9ca2-cfa3e9c676f1/) certified by the [International Association of Accessibility Professionals (IAAP)](https://www.accessibilityassociation.org/s/wascertificants).
-- I was a Mobile Web Specialist certified by Google but they discontinued the certification (it was a true hands-on coding exam with real world problems that had to be solved by coding in 4 hours frame, so not your typical A/B/C/D multiple choices lottery).
+- I was a [Mobile Web Specialist certified by Google](https://www.credential.net/c3t3qcsz?key=8e1a90868c73bd81c2c575a02cdc7a0e45db7bb3ea43e048183c8d709bef4aa0) but they discontinued the certification (it was a true hands-on coding exam with real world problems that had to be solved by coding in 4 hours frame, so not your typical A/B/C/D multiple choices lottery).
 - I stil like to play - I used to play a lot of Sid Meier's Civilization (TM), but now I love to play with Machine Learning, Natural Language Processing, Augmented and Virtual reality and sometimes even with some Arduinos, Particles, NodeMCU's and ATTiny85's.
 - Fun personal facts:
     - Born and raised in beautiful Slovenia 🇸🇮, living and working in beautiful Norway 🇳🇴, part of family in beautiful Canada 🇨🇦 and in beautiful Croatia 🇭🇷.
