@@ -2,7 +2,7 @@
 
 ## my name is Bogdan Cerovac.
 
-📫 You can reach me by [e-mail](bogdan.cerovac@gmail.com), on [Twitter](https://twitter.com/CerovacBogdan) or on [LinkedIn](https://www.linkedin.com/in/bogdancerovac/)
+📫 You can reach me by [e-mail](mailto:bogdan.cerovac@gmail.com), on [Twitter](https://twitter.com/CerovacBogdan) or on [LinkedIn](https://www.linkedin.com/in/bogdancerovac/)
 
 > If not for others - be egoistic - do it for yourself - make it as accessible as possible. Some day you might appreciate it as well.
 
