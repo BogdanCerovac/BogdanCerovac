@@ -8,7 +8,7 @@
 
 ### Some facts about me:
 
-- I’m currently working as front-end developer and web accessibility lead for [ItumX AS](https://www.itumX.no) but this is my private repo.
+- I’m currently working as front-end developer and web accessibility lead for [Vokser AS (new name for ItumX AS)](https://www.vokser.no) but this is my private repo.
 - I'm also a sole enterpreneur / independant consultant behind [IDEA lab (Inclusion Diversity Equity and Accessibility)](https://idea-lab.no/?s=github-profile).
 - I'm volunteering as Head of the expert council at [The Institute for Digital Accessibility A11Y.si (in Slovenian)](https://www.digitalnadostopnost.si/o-nas/ekipa/),
 - I’m trying to be a better team player, student, teacher, lecturer and mentor teaching people around me about accessibility, front-end, SEO and all that has to do with the web.
